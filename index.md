@@ -7,9 +7,9 @@ In any month, we spread the news of finding speakers. After getting CFP, the int
 ## Can I participate or talk?
 Yes, anyone can participate and talk. 
 
-## We have a pretty solid yey flexible structure
+-  We have a pretty solid yey flexible structure
 -  Set of volunteers for activity in all Meetup. (I.e. finding speakers, ticket setup, social media news spread, venue and timing arrangements, scheduling, snacks, whole management)
-- Self sustaining, no sponsorship
+-  Self sustaining, no sponsorship
 
 # Vision
 Build a knowledge-exchange platform for all technology lovers.
