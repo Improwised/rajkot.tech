@@ -1,12 +1,10 @@
-### Why ?
-
+## Why ?
 We felt that there should a platform to share knowledge where technologists come and discuss their ideas.
 
-### How it works?
-
+## How it works?
 In any month, we spread the news of finding speakers. After getting CFP, the internal team will decide who doing this time. IF we get good response to the.net we can have.net chapter and so on. There is no restriction on the technology.
 
-### Can I participate or talk?
+## Can I participate or talk?
 Yes, anyone can participate and talk. 
 
 ## We have a pretty solid yey flexible structure
