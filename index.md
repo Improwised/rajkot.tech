@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+### Why ?
 
-You can use the [editor on GitHub](https://github.com/chintanbanugaria/rajkot.tech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We felt that there should a platform to share knowledge where technologists come and discuss their ideas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How it works?
 
-### Markdown
+In any month, we spread the news of finding speakers. After getting CFP, the internal team will decide who doing this time. IF we get good response to the.net we can have.net chapter and so on. There is no restriction on the technology.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Can I participate or talk?
+Yes, anyone can participate and talk. 
 
-```markdown
-Syntax highlighted code block
+## We have a pretty solid yey flexible structure
+-  Set of volunteers for activity in all Meetup. (I.e. finding speakers, ticket setup, social media news spread, venue and timing arrangements, scheduling, snacks, whole management)
+- Self sustaining, no sponsorship
 
-# Header 1
-## Header 2
-### Header 3
+# Vision
+Build a knowledge-exchange platform for all technology lovers.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chintanbanugaria/rajkot.tech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Mission
+Provide an opportunity to gain and share knowledge with all software technology enthusiasts in the Rajkot.
