@@ -1,7 +1,7 @@
 ## Volunteers position
 
 All the success of any Meetup goes to all the volunteers who work hard for it.
-In any Meetup, we have below activities. If you want to join any of the activities, please write to us hello@rajkot.tech with your interest and availability of the time.
+In any Meetup, we have below activities. If you want to join any of the activities, please write to us <hello@rajkot.tech> with your interest and availability of the time.
 
 ### Background activities: 
 
@@ -22,4 +22,6 @@ In any Meetup, we have below activities. If you want to join any of the activiti
 
 ### Post meetup activity:
 
-- Speaker Video + screen recording + mic
+- Prepare talk videos
+
+- Upload videos and photos to social media platforms
